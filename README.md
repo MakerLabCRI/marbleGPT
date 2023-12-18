@@ -1,5 +1,5 @@
 # marbleGPT
-```
+```python
 import math
 
 def euclidean_distance(color1, color2):

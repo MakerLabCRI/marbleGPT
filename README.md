@@ -1,5 +1,5 @@
 # marbleGPT
-
+```
 import math
 
 def euclidean_distance(color1, color2):
@@ -32,3 +32,4 @@ print(determine_color(317, 164, 161))  # Should print "Red"
 print(determine_color(164, 399, 607))  # Should print "Blue"
 print(determine_color(909, 853, 376))  # Should print "Yellow"
 print(determine_color(978, 1206, 1122))  # Should print "White"
+```
